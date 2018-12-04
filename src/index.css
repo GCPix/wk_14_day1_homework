@@ -12,3 +12,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.filmContainer{
+  padding: 20px;
+  width: 40%;
+  display:block;
+  border-width: medium;
+  border-color: black;
+  border-style: double;
+}
+a{
+  text-decoration: none;
+}
+
+.film{
+
+}
+.getMore{
+  background-color: rgb(174, 220, 242);
+  border-width: medium;
+  border-color: black;
+  border-style: double;
+  padding: 5px;
+  margin: 5px;
+
+}

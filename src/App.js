@@ -5,6 +5,7 @@ import FilmsBox from './containers/FilmsBox';
 class App extends Component {
   render() {
     return (
+
       <FilmsBox/>
     );
   }
